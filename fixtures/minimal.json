@@ -1,0 +1,8 @@
+{
+  "base": "0x401000",
+  "bytes": [144, 195, 144, 195],
+  "functions": [
+    {"address": "0x401000", "name": "main", "size": 2},
+    {"address": "0x401002", "name": "helper", "size": 2}
+  ]
+}
